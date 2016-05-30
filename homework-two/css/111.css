@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+/* img.thumbUp{
+	width:300px ;
+} */
+body {
+	background-image: url("../img/124.jpg");
+	background-repeat: repeat;
+}
+
+img {
+	width:27% ; 
+	margin:1%;
+	padding: 1% ;
+	border: 1%; 
+	margin-top: 5%;
+	margin-left: 1%;
+	margin-right: 1%;
+} 
+div {
+	width:72% ;
+	margin:0px auto ;
+	font-size: 0px;
+}
+
+
+footer {
+  border-top: solid 1px #00944A;
+  background-color: #F4FFED;
+}
+
+#video{
+ margin-top: 8%;
+ margin-left: 15%;
+ margin-right: 15%;
+}
+
+#music{
+	margin-top: 1%;
+	margin-left: 20%;
+	margin-right: 15%;
+}
